@@ -1,0 +1,5 @@
+ADD TO WITHDRAWNITENS.json THE FULL INFO
+
+DEPOSIT ITENS
+    CHECK WHAT PRICE WAS BOUGHT bought_at , CHECK MARKET VALUE ON INV , check percentage diff when is higher than 12% of profit deposit at current market value 
+    Create listed_itens.json with full info

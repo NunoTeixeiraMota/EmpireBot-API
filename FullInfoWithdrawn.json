@@ -1,0 +1,112 @@
+[
+    {
+        "market_name": "AUG | Amber Fade (Minimal Wear)",
+        "id": 192435037,
+        "market_value": 134,
+        "purchase_price": 134,
+        "custom_price_percentage": "-9.00",
+        "above_recomended_price": "-14.65",
+        "price_is_unreliable": false,
+        "bought_at": 134
+    },
+    {
+        "market_name": "AUG | Amber Fade (Minimal Wear)",
+        "id": 192248265,
+        "market_value": 131,
+        "purchase_price": 131,
+        "custom_price_percentage": "-11.00",
+        "above_recomended_price": "-16.56",
+        "price_is_unreliable": false,
+        "bought_at": 131
+    },
+    {
+        "market_name": "AUG | Amber Fade (Minimal Wear)",
+        "id": 192598374,
+        "market_value": 130,
+        "purchase_price": 130,
+        "custom_price_percentage": "-12.00",
+        "above_recomended_price": "-17.20",
+        "price_is_unreliable": false,
+        "bought_at": 130
+    },
+    {
+        "market_name": "StatTrak\u2122 MAC-10 | Allure (Minimal Wear)",
+        "id": 192700868,
+        "market_value": 205,
+        "purchase_price": 205,
+        "custom_price_percentage": "-9.00",
+        "above_recomended_price": "-14.58",
+        "price_is_unreliable": false,
+        "bought_at": 205
+    },
+    {
+        "market_name": "Patch | Movistar Riders | Stockholm 2021",
+        "id": 192736207,
+        "market_value": 524,
+        "purchase_price": 524,
+        "custom_price_percentage": "-3.85",
+        "above_recomended_price": "-12.96",
+        "price_is_unreliable": false,
+        "bought_at": 524
+    },
+    {
+        "market_name": "FAMAS | Night Borre (Battle-Scarred)",
+        "id": 192726049,
+        "market_value": 405,
+        "purchase_price": 405,
+        "custom_price_percentage": "-12.00",
+        "above_recomended_price": "-16.84",
+        "price_is_unreliable": false,
+        "bought_at": 405
+    },
+    {
+        "market_name": "AUG | Fleet Flock (Well-Worn)",
+        "id": 191978780,
+        "market_value": 273,
+        "purchase_price": 273,
+        "custom_price_percentage": "-11.00",
+        "above_recomended_price": "-15.74",
+        "price_is_unreliable": false,
+        "bought_at": 273
+    },
+    {
+        "market_name": "AUG | Fleet Flock (Well-Worn)",
+        "id": 192678665,
+        "market_value": 247,
+        "purchase_price": 247,
+        "custom_price_percentage": "-19.00",
+        "above_recomended_price": "-23.77",
+        "price_is_unreliable": false,
+        "bought_at": 247
+    },
+    {
+        "market_name": "Patch | Movistar Riders | Stockholm 2021",
+        "id": 192739251,
+        "market_value": 529,
+        "purchase_price": 529,
+        "custom_price_percentage": "-6.87",
+        "above_recomended_price": "-12.13",
+        "price_is_unreliable": false,
+        "bought_at": 529
+    },
+    {
+        "market_name": "Tec-9 | Cut Out (Field-Tested)",
+        "id": 192746607,
+        "market_value": 450,
+        "purchase_price": 450,
+        "custom_price_percentage": "-11.94",
+        "above_recomended_price": "-16.97",
+        "price_is_unreliable": false,
+        "bought_at": 450
+    },
+    {
+        "market_name": "Dreams & Nightmares Case",
+        "id": 192748482,
+        "market_value": 120,
+        "purchase_price": 120,
+        "custom_price_percentage": "-7.69",
+        "above_recomended_price": "-13.04",
+        "price_is_unreliable": false,
+        "bought_at": 120
+    }
+]

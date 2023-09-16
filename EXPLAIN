@@ -1,0 +1,12 @@
+MainRequests generates:
+"Extracted items, auctions, and withdrawn items." (Included in FTP)
+
+Withdraws Hist generates:
+"Withdrawal invoice."
+
+Extract full info generates:
+"Requires withdrawal invoice and withdrawn items."
+"Output file: FullInfoWithdrawn.json."
+
+Deposit With profit:
+"Requires FullInfoWithdrawn and Inventory(GETS BY API ALREADY)."
