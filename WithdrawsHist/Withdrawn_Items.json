@@ -1,0 +1,91 @@
+[
+    {
+    "success": true,
+    "data": {
+        "id": 20864301,
+        "tradeoffer_id": 192435037,
+        "coin_value": 134,
+        "custome_price_percentage": "-9.00"
+    }
+    },{
+        "success": true,
+        "data": {
+            "id": 20864302,
+            "tradeoffer_id": 192248265,
+            "coin_value": 131,
+            "custome_price_percentage": "-11.00"
+        }
+    },{
+        "success": true,
+        "data": {
+            "id": 20864305,
+            "tradeoffer_id": 192598374,
+            "coin_value": 130,
+            "custome_price_percentage": "-12.00"
+        }
+    },{
+        "success": true,
+        "data": {
+            "id": 20864309,
+            "tradeoffer_id": 192700868,
+            "coin_value": 205,
+            "custome_price_percentage": "-9.00"
+        }
+    },{
+        "success": true,
+        "data": {
+            "id": 20865114,
+            "tradeoffer_id": 192736207,
+            "coin_value": 524,
+            "custome_price_percentage": "-3.85"
+        }
+    },{
+        "success": true,
+        "data": {
+            "id": 20865118,
+            "tradeoffer_id": 192726049,
+            "coin_value": 405,
+            "custome_price_percentage": "-12.00"
+        }
+    },{
+        "success": true,
+        "data": {
+            "id": 20865126,
+            "tradeoffer_id": 191978780,
+            "coin_value": 273,
+            "custome_price_percentage": "-11.00"
+        }
+    },{
+        "success": true,
+        "data": {
+            "id": 20865127,
+            "tradeoffer_id": 192678665,
+            "coin_value": 247,
+            "custome_price_percentage": "-19.00"
+        }
+    },{
+        "success": true,
+        "data": {
+            "id": 20865404,
+            "tradeoffer_id": 192739251,
+            "coin_value": 529,
+            "custome_price_percentage": "-6.87"
+        }
+    },{
+        "success": true,
+        "data": {
+            "id": 20865775,
+            "tradeoffer_id": 192746607,
+            "coin_value": 450,
+            "custome_price_percentage": "-11.94"
+        }
+    },{
+        "success": true,
+        "data": {
+            "id": 20865948,
+            "tradeoffer_id": 192748482,
+            "coin_value": 120,
+            "custome_price_percentage": "-7.69"
+        }
+    }
+]
